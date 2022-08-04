@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Cookie-Regular';
+    src: url(../fonts/Cookie/Cookie-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url(../fonts/OpenSans/OpenSans-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-italic';
+    src: url(../fonts/OpenSans/OpenSans-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url(../fonts/OpenSans/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'OpenSans-SemiBold';
+    src: url(../fonts/OpenSans/OpenSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Tinos-Regular';
+    src: url(../fonts/Tinos/Tinos-Regular.ttf);
+}
